@@ -1,3 +1,14 @@
+# Task #1
+
+https://github.com/dotnet/BenchmarkDotNet/issues/1671
+
+Remember your job is to make *incremental* progress, break the task into smaller tasks, or finish something in 15 minutes, then pass it along to the next contributor. 
+No responsibility, only fun.
+
+If you don't finish, add your next task to the readme.md. When you're done make a pull request to the repo
+
+Email with questions
+
 <h3 align="center">
 
   ![](docs/logo/logo-wide.png)
